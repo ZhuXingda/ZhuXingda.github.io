@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # 朱兴达 ZhuXingda
 
 **mail**: zhuxingda211@outlook.com
