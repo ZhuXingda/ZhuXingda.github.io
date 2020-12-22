@@ -1,5 +1,12 @@
-# Bug收集
+# 朱兴达 ZhuXingda
 
-[toby](./timg.jpg)
+**mail**: zhuxingda211@outlook.com
 
-[google](https://www.google.com)
+**add**: 中国 上海	China Shanghai
+
+
+
+## 目录
+
+#### [Bug收集](/bug_fix/index.md)
+
