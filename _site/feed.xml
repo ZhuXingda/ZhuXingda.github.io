@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://zhuxingda.github.io</id>
   <title>Zhu Xingda's Blog</title>
-  <subtitle></subtitle>
-  <updated>2021-01-18T01:32:41+08:00</updated>
+  <subtitle>阿雪：那你知道单例模式吗？</subtitle>
+  <updated>2021-01-18T02:19:20+08:00</updated>
   <author>
     <name>Zhu Xingda</name>
     <uri>https://zhuxingda.github.io</uri>

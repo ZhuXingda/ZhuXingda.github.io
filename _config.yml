@@ -25,7 +25,7 @@ github:
 social:
   name: Zhu Xingda                  # it will shows as the copyright owner in Footer
   email: zhuxingda211@outlook.com             # change to your email address
-  links\
+  links:
     # The first element serves as the copyright owner's link
     - https://github.com/ZhuXingda       # change to your github homepage
     # Uncomment below to add more social links
@@ -84,7 +84,6 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-theme: Chirpy
 # DO NOT change this unless you're a Pro user on Jekyll and Web development,
 # or you think you're smart enough to change other relevant URLs within this template.
 permalink: /posts/:title/
