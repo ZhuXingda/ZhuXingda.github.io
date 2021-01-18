@@ -1,55 +1,49 @@
----
-layout: compress
-# Default layout
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT Licensed
----
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{{"/favicon.ico" | relative_url }}" type="image/x-icon" />
+    <link rel="dns-prefetch" href="https://{{ site.disqus.shortname }}.disqus.com">
+    <meta
+    itemprop="description"
+    name="description"
+    content="
+        {% if page.description %}
+            {{ page.description | truncate: 160 }}
+        {% else %}
+            {{ site.description | truncate: 160  }}
+        {% endif %}"
+    />
+    <title>
+      {%if page.title %}
+          {{ page.title }}
+      {% else %}
+          {{ site.title }}
+      {% endif %}
+    </title>
+    <!-- async load css file -->
+    <link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}" media="none" onload="if(media!='all')media='all'">
+    <!-- Load css when script is disabled -->
+    <noscript><link rel="stylesheet" href="{{"/assets/css/styles.css" | relative_url}}"></noscript>
 
-<!DOCTYPE html>
+    <!-- Dns Prefetch the google analytics -->
+    <link rel="dns-prefetch" href="www.googletagmanager.com">
+    <link rel="dns-prefetch" href="www.google-analytics.com">
 
-{% capture prefer_mode %}
-  {% if site.theme_mode %}
-    mode="{{ site.theme_mode }}"
-  {% endif %}
-{% endcapture %}
 
-<html lang="{{ site.lang | split: "_" | first | default: "en" }}" {{ prefer_mode }}>
 
-  {% include head.html %}
+    <!-- Load the script async and wait for the page to render for script to execute -->
+    <script defer src="{{"/assets/js/theme.js" | relative_url }}"></script>
+    <script defer src="{{"/assets/js/script.js" | relative_url }}"></script>
 
-  <body data-spy="scroll" data-target="#toc">
+    {% include analytics.html %}
+    {% feed_meta %}
+    {% seo %}
 
-    {% include sidebar.html %}
-
-    {% include topbar.html %}
-
-    <div id="main-wrapper">
-      <div id="main">
-
-        {% include refactor-content.html content=content %}
-
-        {% include footer.html %}
-
-      </div>
-
-      {% include search-results.html %}
-
-    </div> <!-- #main-wrapper -->
-
-    {% if page.mermaid %}
-      {% include mermaid.html %}
-    {% endif %}
-
-    <div id="mask"></div>
-
-    <a id="back-to-top" href="#" aria-label="back-to-top" class="btn btn-lg btn-box-shadow" role="button">
-      <i class="fas fa-angle-up"></i>
-    </a>
-
-    {% include search-loader.html %}
-
-  </body>
-
+  </head>
+    <body onload="onLoad()">
+      {% include themeSelector.html %}
+      {{ content }}
+    </body>
 </html>
