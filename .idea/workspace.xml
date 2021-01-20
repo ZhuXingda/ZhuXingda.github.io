@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3ffa3c-e6e9-4c3e-bc30-95e7a771bf6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3c/cc59da03fa5b78c54f5b8814c83dfd209365a6bb8a2d91a6b7120c0f1fe7d9" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3c/cc59da03fa5b78c54f5b8814c83dfd209365a6bb8a2d91a6b7120c0f1fe7d9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +42,9 @@
       <option name="presentableId" value="Default" />
       <updated>1610971992656</updated>
       <workItem from="1610971995312" duration="123000" />
+      <workItem from="1610983564009" duration="978000" />
+      <workItem from="1610985417357" duration="20000" />
+      <workItem from="1611065479593" duration="732000" />
     </task>
     <servers />
   </component>
@@ -42,13 +52,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="249" y="26" width="1031" height="751" key="SettingsEditor" timestamp="1610972022279">
+    <state x="374" y="199" width="599" height="423" key="#Notifications" timestamp="1610985049583">
       <screen x="72" y="27" width="1208" height="773" />
     </state>
-    <state x="249" y="26" width="1031" height="751" key="SettingsEditor/72.27.1208.773@72.27.1208.773" timestamp="1610972022279" />
-    <state x="365" y="27" width="638" height="773" key="find.popup" timestamp="1610972111768">
+    <state x="374" y="199" width="599" height="423" key="#Notifications/72.27.1208.773@72.27.1208.773" timestamp="1610985049583" />
+    <state x="550" y="126" width="424" height="505" key="FileChooserDialogImpl" timestamp="1611065565238">
       <screen x="72" y="27" width="1208" height="773" />
     </state>
-    <state x="365" y="27" width="638" height="773" key="find.popup/72.27.1208.773@72.27.1208.773" timestamp="1610972111768" />
+    <state x="550" y="126" width="424" height="505" key="FileChooserDialogImpl/72.27.1208.773@72.27.1208.773" timestamp="1611065565238" />
+    <state x="249" y="13" width="1031" height="751" key="SettingsEditor" timestamp="1611065567109">
+      <screen x="72" y="27" width="1208" height="773" />
+    </state>
+    <state x="249" y="13" width="1031" height="751" key="SettingsEditor/72.27.1208.773@72.27.1208.773" timestamp="1611065567109" />
+    <state x="365" y="27" width="638" height="773" key="find.popup" timestamp="1610983579602">
+      <screen x="72" y="27" width="1208" height="773" />
+    </state>
+    <state x="365" y="27" width="638" height="773" key="find.popup/72.27.1208.773@72.27.1208.773" timestamp="1610983579602" />
+    <state x="72" y="13" width="1204" height="787" key="new project wizard" timestamp="1611065600371">
+      <screen x="72" y="27" width="1208" height="773" />
+    </state>
+    <state x="72" y="13" width="1204" height="787" key="new project wizard/72.27.1208.773@72.27.1208.773" timestamp="1611065600371" />
   </component>
 </project>
