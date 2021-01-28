@@ -20,15 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b3ffa3c-e6e9-4c3e-bc30-95e7a771bf6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3c/cc59da03fa5b78c54f5b8814c83dfd209365a6bb8a2d91a6b7120c0f1fe7d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bc/c4f57264a725fbb8fae80c5ea9c1f611db15ea035c9a9ef40aa699c5e6492a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2017-11-01-s2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-11-01-s2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/debug.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/debug.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/java.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/leetcode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/script.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/todo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,19 +75,6 @@
       <recent name="C:\Users\zhuxingda\Desktop\blog\ZhuXingda.github.io" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,6 +88,7 @@
       <workItem from="1610985417357" duration="20000" />
       <workItem from="1611065479593" duration="732000" />
       <workItem from="1611815287970" duration="2614000" />
+      <workItem from="1611831208703" duration="958000" />
     </task>
     <servers />
   </component>
@@ -119,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="199" width="599" height="423" key="#Notifications" timestamp="1610985049583">
