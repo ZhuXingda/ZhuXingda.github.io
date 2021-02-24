@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b3ffa3c-e6e9-4c3e-bc30-95e7a771bf6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-02-23-mysql_tips.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/chainofresponsibility_demo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-11-01-s2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-11-01-s2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/debug.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/debug.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/java.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/java.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/leetcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/leetcode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/script.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/todo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -73,6 +69,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhuxingda\Desktop\blog\ZhuXingda.github.io\assets\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\zhuxingda\Desktop\blog\ZhuXingda.github.io" />
     </key>
@@ -102,7 +101,11 @@
       <workItem from="1610983564009" duration="978000" />
       <workItem from="1610985417357" duration="20000" />
       <workItem from="1611065479593" duration="732000" />
-      <workItem from="1611815287970" duration="2614000" />
+      <workItem from="1611815287970" duration="3291000" />
+      <workItem from="1611901147433" duration="612000" />
+      <workItem from="1612145950322" duration="597000" />
+      <workItem from="1612146806389" duration="697000" />
+      <workItem from="1614066556925" duration="4090000" />
     </task>
     <servers />
   </component>
@@ -119,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="374" y="199" width="599" height="423" key="#Notifications" timestamp="1610985049583">
@@ -141,5 +145,9 @@
       <screen x="72" y="27" width="1208" height="773" />
     </state>
     <state x="72" y="13" width="1204" height="787" key="new project wizard/72.27.1208.773@72.27.1208.773" timestamp="1611065600371" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1614167957208">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1614167957208" />
   </component>
 </project>
