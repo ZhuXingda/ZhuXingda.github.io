@@ -76,19 +76,6 @@
       <recent name="C:\Users\zhuxingda\Desktop\blog\ZhuXingda.github.io" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -106,6 +93,8 @@
       <workItem from="1612145950322" duration="597000" />
       <workItem from="1612146806389" duration="697000" />
       <workItem from="1614066556925" duration="4090000" />
+      <workItem from="1611815287970" duration="2614000" />
+      <workItem from="1611831208703" duration="1094000" />
     </task>
     <servers />
   </component>
