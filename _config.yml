@@ -19,7 +19,7 @@ user:
   name: Zhu Xingda
   pic: /assets/img/guagua.jpeg
   picAlt: "catbook"
-  job: student
+  job:
   message: axue&ada 
   aboutme: true # comment this out if you don't need the 'about' page.
 

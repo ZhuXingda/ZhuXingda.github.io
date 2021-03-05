@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b3ffa3c-e6e9-4c3e-bc30-95e7a771bf6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-02-23-mysql_tips.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/chainofresponsibility_demo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,12 +68,27 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\zhuxingda\Desktop\blog\ZhuXingda.github.io\assets\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\zhuxingda\Desktop\blog\ZhuXingda.github.io" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhuxingda\Desktop\blog\ZhuXingda.github.io\assets\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -95,6 +109,7 @@
       <workItem from="1614066556925" duration="4090000" />
       <workItem from="1611815287970" duration="2614000" />
       <workItem from="1611831208703" duration="1094000" />
+      <workItem from="1614932279806" duration="6618000" />
     </task>
     <servers />
   </component>
