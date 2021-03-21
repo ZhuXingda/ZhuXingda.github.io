@@ -20,10 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b3ffa3c-e6e9-4c3e-bc30-95e7a771bf6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.zh.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/en.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/en.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/zh.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -76,15 +82,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,6 +114,7 @@
       <workItem from="1611815287970" duration="2614000" />
       <workItem from="1611831208703" duration="1094000" />
       <workItem from="1614932279806" duration="6618000" />
+      <workItem from="1616306668457" duration="3058000" />
     </task>
     <servers />
   </component>
@@ -127,31 +132,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="374" y="199" width="599" height="423" key="#Notifications" timestamp="1610985049583">
-      <screen x="72" y="27" width="1208" height="773" />
-    </state>
-    <state x="374" y="199" width="599" height="423" key="#Notifications/72.27.1208.773@72.27.1208.773" timestamp="1610985049583" />
-    <state x="550" y="126" width="424" height="505" key="FileChooserDialogImpl" timestamp="1611065565238">
-      <screen x="72" y="27" width="1208" height="773" />
-    </state>
-    <state x="550" y="126" width="424" height="505" key="FileChooserDialogImpl/72.27.1208.773@72.27.1208.773" timestamp="1611065565238" />
-    <state x="249" y="13" width="1031" height="751" key="SettingsEditor" timestamp="1611065567109">
-      <screen x="72" y="27" width="1208" height="773" />
-    </state>
-    <state x="249" y="13" width="1031" height="751" key="SettingsEditor/72.27.1208.773@72.27.1208.773" timestamp="1611065567109" />
-    <state x="365" y="27" width="638" height="773" key="find.popup" timestamp="1610983579602">
-      <screen x="72" y="27" width="1208" height="773" />
-    </state>
-    <state x="365" y="27" width="638" height="773" key="find.popup/72.27.1208.773@72.27.1208.773" timestamp="1610983579602" />
-    <state x="72" y="13" width="1204" height="787" key="new project wizard" timestamp="1611065600371">
-      <screen x="72" y="27" width="1208" height="773" />
-    </state>
-    <state x="72" y="13" width="1204" height="787" key="new project wizard/72.27.1208.773@72.27.1208.773" timestamp="1611065600371" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1614167957208">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1614167957208" />
   </component>
 </project>

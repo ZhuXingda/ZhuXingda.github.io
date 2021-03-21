@@ -1,7 +1,17 @@
 ---
+layout:       post
 title: Spring在Bean初始化结束后手动依赖注入
-categories: [java]
+subtitle:     ""
+date:         2021-03-05
+author:       "ZhuXingda"
+header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-mask:  0.3
+catalog:      true
+multilingual: true
 comments: true
+tags:
+    - Spring
+    - java
 ---
 >遇到的情况：三个用Spring进行依赖管理的类A、B、C，依赖关系如下
 >```java

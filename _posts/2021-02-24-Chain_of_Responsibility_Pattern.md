@@ -1,6 +1,15 @@
 ---
+layout:       post
 title: 责任链模式
-categories: [java]
+subtitle:     ""
+date:         2021-02-24
+author:       "ZhuXingda"
+header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-mask:  0.3
+catalog:      true
+multilingual: true
+tags:
+- design-pattern
 comments: true
 ---
 >在看Sentinel源码的时候发现其熔断/降级处理用到了责任链模式，
