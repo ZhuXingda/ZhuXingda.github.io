@@ -1,18 +1,16 @@
 ---
+layout: default
+title: 404
+hide-in-nav: true
+description: "你来到了没有知识的荒原 :("
+header-img: "img/404-bg.jpg"
 permalink: /404.html
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-<body>
-  <section class="fourzerofour">
-      <p>
-        <img src="{{ '/assets/img/cat_404.jpg' | relative_url }}" width="300px"><br>
-        404 page not found <br>
-        Go <a href="{{ '/' | relative_url }}">home</a> :)
-      </p>
-  </section>
 
-</body>
-</html>
+<!-- Page Header -->
+{% include intro-header.html type="page" %}
+
+<script>
+	document.body.classList.add('page-fullscreen');
+</script>
