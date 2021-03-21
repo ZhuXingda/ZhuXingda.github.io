@@ -10,7 +10,7 @@ catalog:      true
 multilingual: true
 comments: true
 tags:
-- Spring
+  - Spring
   - java 
 ---
 

@@ -1,10 +1,10 @@
 # Site settings
 title: ZhuXingda's Blog
 SEOTitle: 朱兴达的博客
-header-img: img/home-bg.jpg
+header-img: img/about.png
 email: zhuxingda211@outlook.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "java-后端开发-编程 朱兴达的个人技术博客"
+keyword: ""
 #url: ""              # your host, for absolute URL
 #baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:
 #zhihu_username:
-github_username:    ZhuXingda
+github_username: ZhuXingda
 #twitter_username:
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
