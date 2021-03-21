@@ -29,6 +29,37 @@
       <change beforePath="$PROJECT_DIR$/_includes/about/zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/about/zh.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/en.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/posts/2017-07-12-upgrading-eleme-to-pwa/zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-01-29-hello-2015.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-16-miui6.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-04-is-pure-android-better.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-10-01-why-alibaba-ux-sucks.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-11-20-responsive-web-design.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-13-wechat-block-kuaidi.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-10-apple-event-2015.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-25-digital-native.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-03-31-e2e_user_scenarios.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-14-unix-linux-note.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-15-os-metro.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-11-see-u-ali.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-05-25-js-module-loader.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-15-alitrip-strategy.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-07-09-js-module-7day.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-09-22-js-version.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-10-28-how-designer-learn-fe.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-15-ios9-safari-web.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-12-28-css-sucks-2015.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-01-React-vs-Angular2.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-05-pwa-in-my-pov.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-10-20-pwa-qcon2016.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-11-20-sw-101-gdgdf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-09-nextgen-web-pwa.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-06-25-you-are-slaves.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-07-12-upgrading-eleme-to-pwa.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +145,7 @@
       <workItem from="1611815287970" duration="2614000" />
       <workItem from="1611831208703" duration="1094000" />
       <workItem from="1614932279806" duration="6618000" />
-      <workItem from="1616306668457" duration="3058000" />
+      <workItem from="1616306668457" duration="3630000" />
     </task>
     <servers />
   </component>
