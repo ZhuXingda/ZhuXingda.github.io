@@ -4,7 +4,6 @@ title: MySQL数据/数据结构输出到本地
 subtitle:     ""
 date:         2021-02-23
 author:       "ZhuXingda"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true

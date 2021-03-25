@@ -4,7 +4,6 @@ title: Spring在Bean初始化结束后手动依赖注入
 subtitle:     ""
 date:         2021-03-05
 author:       "ZhuXingda"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true

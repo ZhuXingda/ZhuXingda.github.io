@@ -20,11 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b3ffa3c-e6e9-4c3e-bc30-95e7a771bf6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/archive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/about.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/about.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-23-mysql_tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-23-mysql_tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_wechat.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
