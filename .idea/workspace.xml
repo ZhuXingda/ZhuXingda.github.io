@@ -23,10 +23,18 @@
       <change afterPath="$PROJECT_DIR$/img/aaa.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-01-28-todo_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-23-mysql_tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-23-mysql_tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-24-Chain_of_Responsibility_Pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-02-25-Spring_AOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-05-Spring_DI_TIPS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/404-bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/about-bg-walle.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/about-bg.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/about.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/about1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/avatar-toby.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/blog-desktop.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/blog-keynote.jpg" beforeDir="false" />
@@ -38,6 +46,7 @@
       <change beforePath="$PROJECT_DIR$/img/home-bg-geek.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/home-bg-o.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/home-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_wechat.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/in-post/forcify.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/in-post/open-source-license.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg" beforeDir="false" />

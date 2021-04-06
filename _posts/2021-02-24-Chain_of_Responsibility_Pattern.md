@@ -4,7 +4,6 @@ title: 责任链模式
 subtitle:     ""
 date:         2021-02-24
 author:       "ZhuXingda"
-header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
