@@ -79,7 +79,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "好好学习 日新月异"
-sidebar-avatar: /img/avatar-toby.ico      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/aaa.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
