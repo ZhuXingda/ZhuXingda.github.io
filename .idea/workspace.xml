@@ -21,10 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8b3ffa3c-e6e9-4c3e-bc30-95e7a771bf6e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/sns-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sns-links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,7 @@
       <workItem from="1616306668457" duration="7195000" />
       <workItem from="1616387684698" duration="681000" />
       <workItem from="1617676046907" duration="2937000" />
-      <workItem from="1617679798097" duration="1247000" />
+      <workItem from="1617679798097" duration="2770000" />
     </task>
     <servers />
   </component>
@@ -141,10 +139,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="724" y="288" width="1111" height="718" key="find.popup" timestamp="1617681221403">
+    <state x="724" y="288" width="1111" height="718" key="find.popup" timestamp="1617683005573">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="724" y="288" width="1111" height="718" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1617681221403" />
+    <state x="724" y="288" width="1111" height="718" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1617683005573" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1617678763530">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
