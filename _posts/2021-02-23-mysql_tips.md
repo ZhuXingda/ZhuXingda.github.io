@@ -7,8 +7,9 @@ author:       "ZhuXingda"
 header-mask:  0.3
 catalog:      true
 multilingual: false
+comments: true
 tags:
-  - mysql
+  - Mysql
 ---
 经常遇到需要将数据库导出成文件，然后在本地操作，总结常用方法有：
 - 导出数据：利用mysql命令的-e参数

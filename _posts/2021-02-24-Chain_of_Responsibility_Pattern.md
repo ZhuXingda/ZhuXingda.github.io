@@ -7,9 +7,9 @@ author:       "ZhuXingda"
 header-mask:  0.3
 catalog:      true
 multilingual: false
-tags:
-- design-pattern
 comments: true
+tags:
+    - Design Pattern
 ---
 >在看Sentinel源码的时候发现其熔断/降级处理用到了责任链模式，
 >在请求正式调用接口的具体方法前来按定义顺序执行相应操作，

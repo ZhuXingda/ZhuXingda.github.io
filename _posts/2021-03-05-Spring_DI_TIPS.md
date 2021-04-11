@@ -10,7 +10,7 @@ multilingual: false
 comments: true
 tags:
     - Spring
-    - java
+    - Java
 ---
 >遇到的情况：三个用Spring进行依赖管理的类A、B、C，依赖关系如下
 >```java

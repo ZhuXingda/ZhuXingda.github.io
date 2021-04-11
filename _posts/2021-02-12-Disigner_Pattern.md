@@ -7,6 +7,7 @@ author:       "ZhuXingda"
 header-mask:  0.3
 catalog:      true
 multilingual: false
+comments: true
 tags:
-- mysql
+    - Design Pattern
 ---
