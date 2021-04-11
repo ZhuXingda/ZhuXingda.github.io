@@ -6,7 +6,7 @@ date:         2021-02-23
 author:       "ZhuXingda"
 header-mask:  0.3
 catalog:      true
-multilingual: true
+multilingual: false
 tags:
   - mysql
 ---

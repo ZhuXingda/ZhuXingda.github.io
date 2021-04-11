@@ -6,7 +6,7 @@ date:         2021-03-05
 author:       "ZhuXingda"
 header-mask:  0.3
 catalog:      true
-multilingual: true
+multilingual: false
 comments: true
 tags:
     - Spring

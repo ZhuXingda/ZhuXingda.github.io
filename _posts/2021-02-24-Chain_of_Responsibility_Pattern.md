@@ -6,7 +6,7 @@ date:         2021-02-24
 author:       "ZhuXingda"
 header-mask:  0.3
 catalog:      true
-multilingual: true
+multilingual: false
 tags:
 - design-pattern
 comments: true
