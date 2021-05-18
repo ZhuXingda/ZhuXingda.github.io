@@ -6,11 +6,11 @@ date:         2021-02-25
 author:       "ZhuXingda"
 header-mask:  0.3
 catalog:      true
-multilingual: true
+multilingual: false
 comments: true
 tags:
   - Spring
-  - java 
+  - Java 
 ---
 
 - 
