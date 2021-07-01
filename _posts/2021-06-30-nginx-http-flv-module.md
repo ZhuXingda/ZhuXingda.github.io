@@ -110,7 +110,7 @@ http {
 
 ## 采集端
 下载[OBS Studio](https://obsproject.com/)，配置串流地址然后点开始推流。如果是用的笔记本处理器温度太高的话可以在设置里调低分辨率，我调到360P之后风扇声小了很多。
-![OBS串流地址配置](../img/posts/OBS.jpg)
+![OBS串流地址配置]({{ site.url }}/img/posts/OBS.jpg)
 
 ## 播放端
 网页播放器用(西瓜视频的播放器)[https://v2.h5player.bytedance.com/]
@@ -154,5 +154,5 @@ http {
 
 OBS开始录制并推流之后打开这个html文件，就能看到电脑摄像头或者桌面的直播的音视频了。
 内网环境延迟居然有7秒，暂时不知道是什么原因
-![延迟](../img/posts/yanchi.jpg)
+![延迟]({{ site.url }}/img/posts/yanchi.jpg)
 本来是计划做一个在内网看电影的网站，这里先用OBS试一下，后面再尝试在服务器上用FFmpeg来推电影。
